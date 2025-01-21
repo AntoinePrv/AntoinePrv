@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm a scientist turned research engineer with a deep passion for 
+machine learning and mathematical optimization, which I cultivated 
+during my Ph.D. in Montreal.
 
-<!--
-**AntoinePrv/AntoinePrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in transforming cutting-edge research ideas into robust,
+high-performance, production-grade libraries and tools.
+My expertise lies in crafting reliable solutions that seamlessly
+integrate into diverse programming languages and environments.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive in rigorous development environments, where strong testing
+practices and static type-checking ensure code safety and maintainability.
+I believe in the power of building foundational, dependable tools that
+serve as universal building blocks for innovation.
